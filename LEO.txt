@@ -1,0 +1,3 @@
+john:password123
+alice:securePassword
+bob:123456
